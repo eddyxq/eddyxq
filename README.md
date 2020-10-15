@@ -1,4 +1,4 @@
-### Hi there 👋
+![githubreadme](https://user-images.githubusercontent.com/27387495/96077097-28480f00-0e6c-11eb-91b6-c1e992ec2b53.gif)
 
 <!--
 **eddyxq/eddyxq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
